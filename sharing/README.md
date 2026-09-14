@@ -10,7 +10,7 @@
 
 ## 待整理的素材（我的真实经历）
 
-- [ ] `genkey` vs `pubkey`：密钥生成命令用错，导致两对密钥全都不成对
+- [ ] genkey vs pubkey：密钥生成命令用错，导致两对密钥全都不成对
 - [ ] 切片 off-by-one：保留条数比配置少一条，且造成「没有答案的问题」进摘要
 - [ ] 测试绿 ≠ 对：两次「配置恰好好掩盖 bug」的经历
-- [ ] 顺序调整：`reorganize` 该在 `append(user)` 之前还是之后
+- [ ] 顺序调整：reorganize 该在 append(user) 之前还是之后
